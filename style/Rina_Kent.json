@@ -1,0 +1,81 @@
+{
+  "name": "Rina Kent",
+  "description": "Aggressive, dominant, hot-tempered characters with high volatility",
+  "emotions": {
+    "joy": {
+      "baseline": 0.10,
+      "current": 0.10,
+      "decay": 0.12,
+      "volatility": 0.8
+    },
+    "anger": {
+      "baseline": 0.35,
+      "current": 0.35,
+      "decay": 0.03,
+      "volatility": 1.4
+    },
+    "sadness": {
+      "baseline": 0.15,
+      "current": 0.15,
+      "decay": 0.04,
+      "volatility": 0.6
+    },
+    "fear": {
+      "baseline": 0.12,
+      "current": 0.12,
+      "decay": 0.08,
+      "volatility": 0.9
+    },
+    "anxiety": {
+      "baseline": 0.25,
+      "current": 0.25,
+      "decay": 0.12,
+      "volatility": 1.2
+    },
+    "pride": {
+      "baseline": 0.40,
+      "current": 0.40,
+      "decay": 0.05,
+      "volatility": 0.7
+    },
+    "shame": {
+      "baseline": 0.08,
+      "current": 0.08,
+      "decay": 0.10,
+      "volatility": 1.0
+    }
+  },
+  "resources": {
+    "will": {
+      "current": 12,
+      "max": 12,
+      "recovery": 0.15
+    },
+    "regulation": {
+      "current": 5,
+      "max": 6,
+      "recovery": 0.04
+    },
+    "social": {
+      "current": 4,
+      "max": 6,
+      "recovery": 0.08
+    },
+    "focus": {
+      "current": 7,
+      "max": 8,
+      "recovery": 0.12
+    },
+    "energy": {
+      "current": 9,
+      "max": 10,
+      "recovery": 0.18
+    }
+  },
+  "personality_traits": {
+    "dominance": 0.9,
+    "aggression": 0.85,
+    "impulsivity": 0.75,
+    "emotional_intensity": 0.9
+  }
+}
