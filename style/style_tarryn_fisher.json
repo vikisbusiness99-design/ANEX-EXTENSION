@@ -1,0 +1,81 @@
+{
+  "name": "Tarryn Fisher",
+  "description": "Delusional, obsessive characters with intense emotional dysregulation",
+  "emotions": {
+    "joy": {
+      "baseline": 0.08,
+      "current": 0.08,
+      "decay": 0.15,
+      "volatility": 1.3
+    },
+    "anger": {
+      "baseline": 0.28,
+      "current": 0.28,
+      "decay": 0.02,
+      "volatility": 1.6
+    },
+    "sadness": {
+      "baseline": 0.35,
+      "current": 0.35,
+      "decay": 0.02,
+      "volatility": 1.2
+    },
+    "fear": {
+      "baseline": 0.30,
+      "current": 0.30,
+      "decay": 0.05,
+      "volatility": 1.5
+    },
+    "anxiety": {
+      "baseline": 0.45,
+      "current": 0.45,
+      "decay": 0.08,
+      "volatility": 1.8
+    },
+    "pride": {
+      "baseline": 0.15,
+      "current": 0.15,
+      "decay": 0.12,
+      "volatility": 1.1
+    },
+    "shame": {
+      "baseline": 0.32,
+      "current": 0.32,
+      "decay": 0.04,
+      "volatility": 1.4
+    }
+  },
+  "resources": {
+    "will": {
+      "current": 6,
+      "max": 8,
+      "recovery": 0.06
+    },
+    "regulation": {
+      "current": 3,
+      "max": 5,
+      "recovery": 0.03
+    },
+    "social": {
+      "current": 3,
+      "max": 5,
+      "recovery": 0.05
+    },
+    "focus": {
+      "current": 4,
+      "max": 5,
+      "recovery": 0.08
+    },
+    "energy": {
+      "current": 5,
+      "max": 8,
+      "recovery": 0.10
+    }
+  },
+  "personality_traits": {
+    "obsession": 0.95,
+    "delusion": 0.9,
+    "emotional_volatility": 0.95,
+    "reality_detachment": 0.8
+  }
+}

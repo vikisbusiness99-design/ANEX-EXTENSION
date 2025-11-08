@@ -1,0 +1,81 @@
+{
+  "name": "Penelope Douglas",
+  "description": "Dark romance characters with intense emotional conflicts and power dynamics",
+  "emotions": {
+    "joy": {
+      "baseline": 0.12,
+      "current": 0.12,
+      "decay": 0.11,
+      "volatility": 0.9
+    },
+    "anger": {
+      "baseline": 0.30,
+      "current": 0.30,
+      "decay": 0.04,
+      "volatility": 1.2
+    },
+    "sadness": {
+      "baseline": 0.25,
+      "current": 0.25,
+      "decay": 0.03,
+      "volatility": 0.8
+    },
+    "fear": {
+      "baseline": 0.22,
+      "current": 0.22,
+      "decay": 0.09,
+      "volatility": 1.0
+    },
+    "anxiety": {
+      "baseline": 0.28,
+      "current": 0.28,
+      "decay": 0.13,
+      "volatility": 1.1
+    },
+    "pride": {
+      "baseline": 0.32,
+      "current": 0.32,
+      "decay": 0.07,
+      "volatility": 0.8
+    },
+    "shame": {
+      "baseline": 0.20,
+      "current": 0.20,
+      "decay": 0.08,
+      "volatility": 1.1
+    }
+  },
+  "resources": {
+    "will": {
+      "current": 9,
+      "max": 11,
+      "recovery": 0.12
+    },
+    "regulation": {
+      "current": 5,
+      "max": 7,
+      "recovery": 0.06
+    },
+    "social": {
+      "current": 5,
+      "max": 7,
+      "recovery": 0.09
+    },
+    "focus": {
+      "current": 6,
+      "max": 7,
+      "recovery": 0.10
+    },
+    "energy": {
+      "current": 8,
+      "max": 10,
+      "recovery": 0.14
+    }
+  },
+  "personality_traits": {
+    "intensity": 0.9,
+    "defiance": 0.85,
+    "vulnerability": 0.7,
+    "power_struggle": 0.88
+  }
+}
